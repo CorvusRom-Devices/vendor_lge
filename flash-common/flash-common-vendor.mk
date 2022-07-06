@@ -192,7 +192,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/flash-common/proprietary/vendor/firmware/ipa_uc.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_uc.mdt \
     vendor/lge/flash-common/proprietary/vendor/lib/libpn553_fw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpn553_fw.so \
     vendor/lge/flash-common/proprietary/vendor/lib/libpn553_fw_1D.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpn553_fw_1D.so \
-    vendor/lge/flash-common/proprietary/vendor/lib/libpn553_fw_1D_64.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpn553_fw_1D_64.so \
+    vendor/lge/flash-common/proprietary/vendor/lib64/libpn553_fw_1D_64.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpn553_fw_1D_64.so \
     vendor/lge/flash-common/proprietary/vendor/lib64/libpn553_fw_64.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpn553_fw_64.so \
     vendor/lge/flash-common/proprietary/vendor/lib/hw/audio.primary.msmnile.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.msmnile.so \
     vendor/lge/flash-common/proprietary/vendor/lib/hw/vendor.qti.hardware.qseecom@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.qti.hardware.qseecom@1.0-impl.so \

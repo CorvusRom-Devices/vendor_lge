@@ -982,8 +982,8 @@ PRODUCT_PACKAGES += \
     TimeService \
     com.qualcomm.qti.gpudrivers.msmnile.api30 \
     pasrservice \
-    HotwordEnrollmentOKGoogleHEXAGON \
-    HotwordEnrollmentXGoogleHEXAGON \
+    HotwordEnrollmentOKGoogleHEXAGON_WCD9340 \
+    HotwordEnrollmentXGoogleHEXAGON_WCD9340 \
     QtiTelephonyService \
     qcrilmsgtunnel \
     seccamservice \
